@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">José Eduardo Trindade E Marques</h1>
+<h2 align="center">Front-End Developer</h2>
+<p align="center">
+<a href=https://www.linkedin.com/in/jos%C3%A9-eduardo-trindade-e-marques-610b315b target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="linkedin-profile" height="20" width="20" /></a>
+</p>
 
-<!--
-**Eduk29/eduk29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=eduk29 alt=eduk29/> </p>
 
-Here are some ideas to get you started:
+- :computer: Front-End developer since Nov, 2016
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Live/based in São Paulo, Brazil
+
+- :office: Working at Câmara de Comercialização de Energia Elétrica 
+
+- 💬 If you want, contact me: **edu.temarques@gmail.com**
+
+- :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
+
+-:page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduk29&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduk29&theme=default" /></td>
+  </tr>   
+</table>
+</center>
