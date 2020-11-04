@@ -12,11 +12,11 @@
 
 - :office: Working at Câmara de Comercialização de Energia Elétrica 
 
-- 💬 If you want, contact me: **edu.temarques@gmail.com**
-
 - :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
 - :page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
+
+- 💬 If you want, contact me: **edu.temarques@gmail.com**
 
 <center>
 <table>
