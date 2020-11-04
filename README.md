@@ -6,9 +6,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=eduk29 alt=eduk29/> </p>
 
-- :computer: Front-End developer since Nov, 2016
+- :computer: Front-End Developer since Nov, 2016
 
 - 📫 Live/based in São Paulo, Brazil
+
+- :mortar_board: Graduated in Electronic Engineering at Instituto Federal de Educação, Ciência e Tecnologia São Paulo (IFSP-São Paulo)
 
 - :office: Working at Câmara de Comercialização de Energia Elétrica 
 
@@ -17,6 +19,8 @@
 - :page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
 
 - 💬 If you want, contact me: **edu.temarques@gmail.com**
+
+- :metal: Will be a pleasure receive your feedback, code review, suggestions and/or tips.
 
 <center>
 <table>
