@@ -16,7 +16,7 @@
 
 - :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
--:page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
+- :page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
 
 <center>
 <table>
