@@ -10,9 +10,9 @@
 
 - 📫 Live/based in São Paulo, Brazil
 
-- :mortar_board: Graduated in Electronic Engineering at Instituto Federal de Educação, Ciência e Tecnologia São Paulo (IFSP-São Paulo)
+- :mortar_board: Graduated in Electronic Engineering at Instituto Federal de Educação, Ciência e Tecnologia São Paulo (IFSP - São Paulo)
 
-- :office: Working as Front-End Architect at Câmara de Comercialização de Energia Elétrica 
+- :office: Working as Front-End Architect and Front-End Developer at Câmara de Comercialização de Energia Elétrica 
 
 - :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
