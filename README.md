@@ -12,7 +12,7 @@
 
 - :mortar_board: Graduated in Electronic Engineering at Instituto Federal de Educação, Ciência e Tecnologia São Paulo (IFSP - São Paulo)
 
-- :office: Working as Front-End Architect and Front-End Developer at Serasa Experian 
+- :office: Working as Front-End Specialist at Serasa Experian 
 
 - :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
