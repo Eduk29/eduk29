@@ -14,7 +14,7 @@
 
 - :office: Working as Front-End Specialist at Serasa Experian 
 
-- :books: Constantly learning about Front-End Architectures and Technologies, **Angular**, **React**, **HTML** and **Pre-processors CSS**
+- :books: Constantly learning about Front-End Architectures and Technologies like **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
 - :page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
 
