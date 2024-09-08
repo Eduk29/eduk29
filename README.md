@@ -12,8 +12,6 @@
 
 - :mortar_board: Graduated in Electronic Engineering at Instituto Federal de Educação, Ciência e Tecnologia São Paulo (IFSP - São Paulo)
 
-- :office: Working as Application Architect at Serasa Experian 
-
 - :books: Constantly learning about Front-End Architectures and Technologies like **Angular**, **React**, **HTML** and **Pre-processors CSS**
 
 - :page_facing_up: Interests in Back-End Technologies (Java and NodeJS) and Mobile Technologies (Ionic and React Native)
